@@ -1,0 +1,15 @@
+Data
+
+To help Dorothy in his search we will need to access following data:
+
+- The Localities of Foshan, Guangzhou China from Wikipedia: https://en.wikipedia.org/wiki/Foshan
+
+- The coordinates (latitude, longitude) ot these Localities of Foshan from Open Street Map APIs
+
+- From Foursquare we will need following venues data:
+  - the burger joint venues of the Localities
+  - the offices venues of the Localities
+  - the high schools venues of the Localities
+  - the universities venues of the Localities
+
+We will then leverage the data in order to determine which locality is the most appropriate in order to locate the burger joint. 
